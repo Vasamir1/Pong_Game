@@ -21,7 +21,7 @@ info_font = pygame.font.Font("OpenSans-VariableFont_wdth,wght.ttf", 20)
 clock = pygame.time.Clock()
 max_fps = 60
 dt = 0
-pygame.display.set_caption("Pong by Marcin Kaczorowski for CS50P")
+pygame.display.set_caption("Pong by Marcin Kaczorowski")
 ESC_INFO = "Press ESC to exit"
 P1_CTRL = "Press W and S to move"
 P2_CTRL = "Press UP nad DOWN to move"
